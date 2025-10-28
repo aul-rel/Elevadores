@@ -67,8 +67,9 @@ nav{
 }
 
 /* Main banner */
+
 .main-banner{
-    background-image: url(../img/mainbanner.png);
+    background-image: url(../img/architecture-2256489_1920-1.jpg);
     background-size: cover;
     background-position: center;
     padding: 10rem 0;
