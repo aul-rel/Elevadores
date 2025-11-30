@@ -239,14 +239,17 @@ margin: 0 auto;
 
 /* Contact form */
 .contact-container {
+    background-color: #34454e;
     padding: 5rem 0 2 rem 0;
     text-align: center;
 }
 .contact-container h2 {
+    color: #fff;
     font-size: 36px;
     margin-bottom: 20px;
 }
 .contact-container p {
+    color: #d5d5d5;
     font-size: 20px;
     margin-bottom: 40px;
 }
@@ -361,4 +364,3 @@ footer{
         margin: 100px 0;
     }
 }
-
